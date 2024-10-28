@@ -14,3 +14,6 @@ This project demonstrates the implementation of a Library Management System usin
 2. **CRUD Operations**: Perform Create, Read, Update, and Delete operations on the data.
 3. **CTAS (Create Table As Select)**: Utilize CTAS to create new tables based on query results.
 4. **Advanced SQL Queries**: Develop complex queries to analyze and retrieve specific data.
+   
+
+![Library_project](https://github.com/kumawatmanish05/Library_Management_System_SQL_Project/blob/main/Library.jpg)   
